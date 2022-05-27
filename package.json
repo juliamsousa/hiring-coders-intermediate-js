@@ -1,0 +1,28 @@
+{
+  "name": "hiring-coders-intermediate",
+  "version": "1.0.0",
+  "description": "Código desenvolvido ao longo do Bootcamp Hiring Coders",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliamsousa/hiring-coders-intermediate-js.git"
+  },
+  "keywords": [
+    "Javascritp",
+    "Bootcamp",
+    "Intermediate"
+  ],
+  "author": "Julia Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliamsousa/hiring-coders-intermediate-js/issues"
+  },
+  "homepage": "https://github.com/juliamsousa/hiring-coders-intermediate-js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
